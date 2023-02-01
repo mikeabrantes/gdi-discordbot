@@ -1,0 +1,22 @@
+{
+  "name": "gdidiscordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "Mike",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.3.0",
+    "@rollem/bot": "^2.8.3",
+    "discord.js": "^14.6.0",
+    "nodemon": "^2.0.20",
+    "rollem-discord": "^0.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
